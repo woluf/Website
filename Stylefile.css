@@ -1,0 +1,26 @@
+<style type="text/css">
+		h1{
+			font-size: 45px;
+			color: crimson;
+		}
+		h2{
+			font-size: 40px;
+			color: mediumpurple;
+		}
+		.Niqqa{
+			font-size: 75px;
+			color: limegreen;
+		}
+		.Big{
+			font-size: 51px;
+			text-transform: uppercase;
+
+
+		}
+		.Niqqa.Big{
+			color: navy;
+		}
+		h1 span{
+			color: greenyellow;
+		}
+	</style>
